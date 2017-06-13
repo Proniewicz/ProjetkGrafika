@@ -9,7 +9,7 @@
                 velocityBase   : new THREE.Vector3(0,100,0),
                 velocitySpread : new THREE.Vector3(20,0,20),
 
-                particleTexture : THREE.ImageUtils.loadTexture( 'img/fire.png' ),
+                particleTexture : THREE.ImageUtils.loadTexture( 'img/charmander.png' ),
 
                 sizeTween    : new Tween( [0, 0.3, 1.2], [20, 150, 1] ),
                 opacityTween : new Tween( [0.9, 1.5], [1, 0] ),
